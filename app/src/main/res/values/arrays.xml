@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planet_names">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jutpiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+
+    </string-array>
+    <string-array name="country_names">
+        <item>India</item>
+        <item>America</item>
+        <item>Londen</item>
+        <item>Europe</item>
+        <item>Japan</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Bangladesh</item>
+        <item>China</item>
+
+    </string-array>
+</resources>
